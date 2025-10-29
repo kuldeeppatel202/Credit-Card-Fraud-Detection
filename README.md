@@ -165,3 +165,22 @@ streamlit run app.py
 | Autoencoder  | 0.987     | -        | -          |
 | Ensemble     | **0.999** | **0.96** | **99.85%** |
 
+🧠 Key Learnings
+
+Handling imbalanced datasets with scale_pos_weight, SMOTE, and threshold tuning
+
+Combining supervised and unsupervised models for high fraud recall
+
+Using Autoencoders for anomaly detection in finance data
+
+Building real-time APIs for live fraud risk assessment
+
+🤝 Acknowledgements
+
+Dataset: Kaggle Credit Card Fraud Detection Dataset
+Inspired by real-world fraud detection architectures used by fintech and banks
+
+🧑‍💻 Author
+
+Kuldeep Patel
+🎓 M.Tech, Computer Science — IIT Guwahati
