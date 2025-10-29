@@ -102,3 +102,7 @@ Thumbs.db
 # ---- Logs ----
 *.log
 logs/
+
+# Ignore data files
+data/
+*.csv
